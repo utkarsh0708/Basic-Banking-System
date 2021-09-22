@@ -1,1 +1,19 @@
-# Basic-Banking-System
+# BASIC-BANKING-SYSTEM
+THE SPARKS FOUNDATION INTERNSHIP
+
+GRIP-GRADUATE ROTATIONAL INTERNSHIP PROGRAM
+
+This is a web app created by me to transfer money between two users from the given data base.
+
+PROGRAMMING LANGUAGES USED:
+
+FRONT-END:
+
+1. CSS
+2. HTML
+3. BOOTSTRAP
+
+BACK-END:
+
+1. PHP
+2. MYSQL
